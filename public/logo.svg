@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" fill="none">
+  <!-- Icon -->
+  <path d="M30 10L10 30L20 50H40L50 30L30 10Z" fill="#1e3a8a"/>
+  <path d="M30 10L50 30L40 50H20L10 30L30 10Z" stroke="#f59e0b" stroke-width="2"/>
+</svg>
