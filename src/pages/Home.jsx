@@ -5,6 +5,7 @@ import HeroCarousel from '../components/Home/HeroCarousel';
 import ResultsSlider from '../components/Home/ResultsSlider';
 import StudyMaterials from '../components/Home/StudyMaterials';
 import NoticePopup from '../components/Home/NoticePopup';
+import BlogPosts from '../components/Home/BlogPosts';
 
 export default function Home() {
     return (
@@ -60,6 +61,8 @@ export default function Home() {
             {/* Study Materials Section */}
             <StudyMaterials />
 
+            {/* Blog Posts Section */}
+            <BlogPosts />
             {/* Call to Action */}
             <section className="bg-slate-50 py-20 border-t border-slate-200">
                 <div className="max-w-7xl mx-auto px-4 text-center">
